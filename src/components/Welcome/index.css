@@ -1,0 +1,32 @@
+.container {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.heading {
+  font-family: Bree Serif;
+  font-size: 52px;
+  color: #f0bb03;
+  margin-bottom: 20px;
+}
+
+.paragraph {
+  font-family: Bree Serif;
+  font-size: 36pxpx;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.button {
+  background-color: white;
+  color: #1e293b;
+  font-weight: 600;
+  height: 36px;
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 0px;
+}
